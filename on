@@ -9,3 +9,4 @@ System cloud_turbo_sched_thermal_break_threshold 100
 System pointer_speed 6
 System sunlight_mode 1
 global zram_enabled 1
+global force_msaa 1
