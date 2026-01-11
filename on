@@ -8,6 +8,6 @@ System cloud_turbo_sched_enable_soc true
 System cloud_turbo_sched_thermal_break_threshold 100
 System pointer_speed 6
 System sunlight_mode 1
-global zram_enabled 1
+global zram_enabled 0
 global force_msaa 1
 global enable_msaa 1
