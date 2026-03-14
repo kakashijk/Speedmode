@@ -1,7 +1,7 @@
-id=xiaomi-speedz
-name=[Xiaomi] Speedz
-description=activate speed mode on Xiaomi devices
-author=Alisuuu
+id=Speedmode
+name=[Samsung] Speeds Mode
+description=activate speed mode on Samsung devices
+author=kakashijk
 version=v1.0.0
 versionCode=1
-repository=https://github.com/Alisuuu/Speedmode
+repository=https://github.com/kakashijk/Speedmode
