@@ -1,5 +1,5 @@
-# [Xiaomi] Speedz
-Speed Mode In Some Xiaomi Devices
-app compatível com a 14+ https://github.com/Alisuuu/Crosssuquin
+# [Samsung] Speeds Mode
+Speed Mode In Some Samsung Devices
+app compatível com a 14+ https://github.com/kakashijk/Crosssuquin
 ### Visitors
-![Visitors at SetBox](https://visitor-badge.laobi.icu/badge?page_id=Alisuuu/Speedmode) 
+![Visitors at SetBox](https://visitor-badge.laobi.icu/badge?page_id=kakashijk/Speedmode) 
