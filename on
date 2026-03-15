@@ -12,3 +12,4 @@ System sunlight_mode 1
 global zram_enabled 0
 global force_msaa 1
 global enable_msaa 1
+global game_api_16_enabled 1
