@@ -7,9 +7,10 @@ global mobile_tc_enabled_list_pkg_name system,android,com.android.systemui,com.a
 System cloud_turbo_sched_enable true
 System cloud_turbo_sched_enable_soc true
 System cloud_turbo_sched_thermal_break_threshold 100
-System pointer_speed 7
+System pointer_speed 6
 System sunlight_mode 1
 global zram_enabled 0
 global force_msaa 1
 global enable_msaa 1
 global game_api_16_enabled 1
+global super_smooth_mode 1
