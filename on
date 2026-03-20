@@ -1,6 +1,6 @@
 secure speed_mode_enable 1
-system speed_mode 1
-global super_speed_enabled 1
+system speed_mode 2
+system game_booster_plus_enabled 1
 system perf_proc_game_list com.vng.pubgmobile,com.garena.game.fcmobilevn,com.garena.game.kgvn,com.riotgames.league.wildriftvn
 System cloud_turbo_sched_enable_speed_touch true
 global mobile_tc_enabled_list_pkg_name system,android,com.android.systemui,com.android.shell,com.android.vending,com.android.google.gms,com.samsung.android.game.gametools,com.samsung.android.game.gos,com.samsung.android.game.gamehome,com.google.android.play.games,com.sec.android.app.samsungapps,com.osp.app.signin,com.samsung.android.rubin.app,com.google.android.apps.cloudconsole,com.samsung.android.scloud
@@ -12,5 +12,5 @@ System sunlight_mode 1
 global zram_enabled 0
 global force_msaa 1
 global enable_msaa 1
-global game_api_16_enabled 1
-global super_smooth_mode 1
+global google_play_game_support 1
+global super_smooth_enabled 1
