@@ -14,3 +14,4 @@ global force_msaa 1
 global enable_msaa 1
 global google_play_game_support 1
 global super_smooth_enabled 1
+global multi_finger_touch true
