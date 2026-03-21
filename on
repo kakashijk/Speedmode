@@ -1,5 +1,5 @@
 secure speed_mode_enable 1
-system speed_mode 2
+system speed_mode 1
 system game_mode_performance_enabled 1
 system perf_proc_game_list com.vng.pubgmobile,com.garena.game.fcmobilevn,com.garena.game.kgvn,com.riotgames.league.wildriftvn
 System cloud_turbo_sched_enable_speed_touch true
@@ -16,4 +16,4 @@ global game_dashboard_dnd_rule_enabled 1
 global super_smooth_enabled 1
 global multi_finger_touch true
 global increase_sensitivity true
-global game_manager_constants mode=2,scaling=0.0,fps=120,angle=true,native=true,4xmsaa=true,loadingBoostDuration=-1
+global game_manager_constants mode=2,scaling=0.0,fps=120,loadingBoostDuration=10
