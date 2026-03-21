@@ -16,4 +16,4 @@ global game_dashboard_dnd_rule_enabled 1
 global super_smooth_enabled 1
 global multi_finger_touch true
 global increase_sensitivity true
-global game_manager_constants mode=2,scaling=0.0,fps=120,loadingBoostDuration=10
+global game_manager_constants mode=2,scaling=false,fps=144,loadingBoostDuration=1
