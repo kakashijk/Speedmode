@@ -15,3 +15,4 @@ global enable_msaa 1
 global game_dashboard_dnd_rule_enabled 1
 global super_smooth_enabled 1
 global multi_finger_touch true
+global touch_sensitivity_enabled 1
