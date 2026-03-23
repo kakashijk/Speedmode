@@ -10,4 +10,5 @@ system cloud_turbo_sched_thermal_break_threshold 50
 system pointer_speed 0
 system sunlight_mode 0
 global force_msaa 0
+global multi_finger_touch false
 global touch_sensitivity_enabled 0
